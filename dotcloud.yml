@@ -1,3 +1,4 @@
 www:
   type: nodejs
-  approot: CORS-Proxy
+  environment:
+    PORT: 8080
