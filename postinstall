@@ -1,2 +1,2 @@
 #!/bin/sh
-cd /home/dotcloud/current/CORS-Proxy && npm install .
+npm install /home/dotcloud/current/ext/CORS-Proxy
