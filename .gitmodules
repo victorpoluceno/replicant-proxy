@@ -1,3 +1,0 @@
-[submodule "ext/CORS-Proxy"]
-	path = ext/CORS-Proxy
-	url = git://github.com/gr2m/CORS-Proxy.git
